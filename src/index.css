@@ -1,0 +1,36 @@
+
+body{
+    background-color: #ffedd5
+  }
+h4{
+    font-weight: bolder;
+}
+p{
+    font-size: large;
+}
+span{
+
+    font-size: large;
+}
+.card{
+    padding: 3.5rem;
+    border-radius: 2rem;
+}
+.row{
+    padding: 1rem;
+}
+.btn{
+    border-radius: 3rem;
+}
+.pagination{
+  margin: auto;
+  width: 15%;
+  padding: 1rem;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+a:hover{
+    color: black;
+}
